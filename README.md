@@ -13,3 +13,9 @@ This repository contains the following `.ipynb` files:
 
 3. **`Hyperparametric_Tuning`**:
    - This file contains an implementation of Hyperparameter Tuning using **Optuna** on the "CNN Regressor Model".
+
+This repository contains the following `.csv` files:
+1.**`raw`**:
+    -This file contains the given un-processed dataset.
+2. **`processed`**:
+    -This file contains processed form of datasewt.
