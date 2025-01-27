@@ -12,4 +12,4 @@ This repository contains the following `.ipynb` files:
    - This file contains an implementation of GridSearchCV performed on the "Polynomial Regressor Model."
 
 3. **`Hyperparametric_Tuning`**:
-   - This file contains an implementation of Hyperparameter Tuning using **Optuna** on the CNN Regressor.
+   - This file contains an implementation of Hyperparameter Tuning using **Optuna** on the "CNN Regressor Model".
