@@ -1,6 +1,6 @@
 # Lattice-Physics_SpringCamp-PClub-
 
-This repository is a submission to the **Machine Learning Spring Camp Selection Tasks**,**Spring Camp** conducted by **PClub at IIT Kanpur**.
+This repository is a submission to the **Machine Learning Spring Camp Selection Tasks**, conducted by **PClub at IIT Kanpur**.
 
 ## Repository Contents
 This repository contains the following `.ipynb` files:
@@ -12,10 +12,14 @@ This repository contains the following `.ipynb` files:
    - This file contains an implementation of GridSearchCV performed on the "Polynomial Regressor Model."
 
 3. **`Hyperparametric_Tuning`**:
-   - This file contains an implementation of Hyperparameter Tuning using **Optuna** on the "CNN Regressor Model".
+   - This file contains an implementation of Hyperparameter Tuning using **Optuna** on the CNN Regressor.
 
-This repository contains the following `.csv` files:
-1.**`raw`**:
-    -This file contains the given un-processed dataset.
+---
+
+This repository also contains the following `.csv` files:
+
+1. **`raw`**:
+   - This file contains the given unprocessed dataset.
+
 2. **`processed`**:
-    -This file contains processed form of datasewt.
+   - This file contains the processed form of the dataset.
